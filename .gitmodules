@@ -1,0 +1,4 @@
+[submodule "Assets/StreamingAssets/SuperStarSwitchSubModuleSample"]
+	path = Assets/StreamingAssets/SuperStarSwitchSubModuleSample
+	url = https://github.com/seojoonwon1/SuperStarSwitchSubModuleSample.git
+	branch = master
